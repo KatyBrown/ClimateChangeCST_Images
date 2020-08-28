@@ -20,5 +20,7 @@ Bar charts showing the predicted mean for the 19 Bioclim bioclimatic variables u
 ### WORLDCLIM_variable_maps
 Maps showing the predictions for the 19 Bioclim bioclimatic variables under different climate change projections.
 
-**Model_comparison.png** Bar chart comparing model accuracy on test data for three species distribution models
-**Species_counts_filtering.png** Bar chart showing the number of species occurences in GBIF for each species and the number filtered out because they had no geographical information, a country code not corresponding to their latitude and longitude or were not on land.
+**Model_comparison.png**
+Bar chart comparing model accuracy on test data for three species distribution models
+**Species_counts_filtering.png**
+Bar chart showing the number of species occurences in GBIF for each species and the number filtered out because they had no geographical information, a country code not corresponding to their latitude and longitude or were not on land.
