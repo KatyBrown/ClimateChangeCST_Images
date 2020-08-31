@@ -27,3 +27,5 @@ Bar chart comparing model accuracy on test data for three species distribution m
 **Species_counts_filtering.png**
 
 Bar chart showing the number of species occurences in GBIF for each species and the number filtered out because they had no geographical information, a country code not corresponding to their latitude and longitude or were not on land.
+
+Images were generated as part of a student project supported by Nuffield Future Researchers and as a collaboration between Alimat Oladele (student) and Katy Brown (supervisor).
